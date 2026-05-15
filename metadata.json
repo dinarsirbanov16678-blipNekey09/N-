@@ -1,0 +1,6 @@
+{
+  "name": "N CHAT",
+  "description": "A secure, dark-themed mobile messenger styled like Telegram, featuring Google authentication and end-to-end encrypted messaging.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": []
+}
